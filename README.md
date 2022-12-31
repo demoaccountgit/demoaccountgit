@@ -13,3 +13,9 @@
 
 - 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/demoaccountgit/my-projects.git)
    
+### Some of the certification I hold:
+
+- Red Hat Certified Engineer (RHCE)
+- Red Hat Certified System Administrator
+- AWS Certified Solutions Architect Associate
+- GCP Associate Cloud Engineer
