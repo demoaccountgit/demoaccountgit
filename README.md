@@ -10,4 +10,5 @@
 
 ### Some of the projects I have worked recently
 
-    📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/demoaccountgit/my-projects)
+- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/demoaccountgit/my-projects.git)
+   
