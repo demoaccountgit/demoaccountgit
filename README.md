@@ -20,3 +20,5 @@
 - Red Hat Certified System Administrator
 - AWS Certified Solutions Architect Associate
 - GCP Associate Cloud Engineer
+- GCP Professional Cloud Architect
+- MongoDB Associate Database Administrator
