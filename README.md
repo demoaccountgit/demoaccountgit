@@ -12,7 +12,6 @@
 ### Some of the projects I have worked recently
 
 - 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/demoaccountgit/my-projects.git)
-   - I have used a very great course for [Complete Terraform Course - Beginner to Advanced](https://www.udemy.com/course/complete-terraform-course-beginner-to-advanced/) from Nana Janashia which I highly recommend to anyone looking for building expertise in Terraform.
    
 ### Some of the certification I hold:
 
