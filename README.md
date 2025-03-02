@@ -21,3 +21,4 @@
 - GCP Associate Cloud Engineer
 - GCP Professional Cloud Architect
 - MongoDB Associate Database Administrator
+- HashiCorp Certified: Terraform Associate (003)
